@@ -17,7 +17,7 @@
 						<div class="count"><span class="profile-ava">
                                 <img alt="" src="Public_files/img/avatar1_small.jpg">
                             </span></div>
-						<div class="title">A propos du proviseur</div>						
+						<div class="title">A propos du pr</div>						
 					</div><!--/.info-box	-->	
 				</div>
 				<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
